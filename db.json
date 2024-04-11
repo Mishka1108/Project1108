@@ -1,0 +1,202 @@
+
+   [ {
+    "id": 1,
+    "image": "https://i.ebayimg.com/images/g/LGAAAOSwBq9lqOaT/s-l960.jpg", 
+    "title": "Samsung Galaxy S24 Ultra ",
+    "category": "smartphone",
+    "price": 3649,
+    "date" : 2024,
+    "link" :"./product/Galaxy-s24-ultra.html",
+    "class": "smartphone"
+  },
+  {
+    "id": 2,
+    "image": "https://s3.zoommer.ge/site/cb67fff2-633b-479b-9c63-12e72f6f786c_Thumb.jpeg", 
+    "title": "Apple iPhone 15 Pro",
+    "category": "smartphone",
+    "price": 3399,
+    "date" : 2023,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 3,
+    "image": "https://s3.zoommer.ge/site/ef64cf76-c9bf-4aba-9a0e-fc58d988025d_Thumb.jpeg", 
+    "title": "Google Pixel 8 Pro ",
+    "category": "smartphone",
+    "price": 2549,
+    "date" : 2023,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 4,
+    "image": "https://s3.zoommer.ge/site/c5755d6e-81ea-410f-9a96-29d646cdf252_Thumb.jpeg", 
+    "title": "Xiaomi 14 12/512GB White",
+    "category": "smartphone",
+    "price": 2299,
+    "date" : 2023,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 5,
+    "image": "https://s3.zoommer.ge/zoommer-images/thumbs/0186134_samsung-galaxy-s23-ultra-5g-s918bds-12256gb-lavender_550.jpeg", 
+    "title": "Samsung Galaxy S23 Ultra ",
+    "category": "smartphone",
+    "price": 2700,
+    "date" : 2023,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 6,
+    "image": "https://s3.zoommer.ge/zoommer-images/thumbs/0186134_samsung-galaxy-s23-ultra-5g-s918bds-12256gb-lavender_550.jpeg", 
+    "title": "Apple iPhone 14 Pro  ",
+    "category": "smartphone",
+    "price": 3200,
+    "date" : 2022,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 7,
+    "image": "https://s3.zoommer.ge/site/88a693cc-cfe6-4f83-938b-eed18656beb8_Thumb.jpeg", 
+    "title": "Samsung Galaxy S24+",
+    "category": "smartphone",
+    "price": 2800,
+    "date" : 2023,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 8,
+    "image": "https://s3.zoommer.ge/site/913f8201-5314-42c0-8323-e3b7d11c0848_Thumb.jpeg", 
+    "title": "Xiaomi 14 Ultra",
+    "category": "smartphone",
+    "price": 3600,
+    "date" : 2023,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 9,
+    "image": "https://s3.zoommer.ge/site/c32491c6-38da-4e78-a11b-59857e521186_Thumb.jpeg", 
+    "title": "OnePlus 12 16/512GB Black",
+    "category": "smartphone",
+    "price": 2900,
+    "date" : 2023,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 10,
+    "image": "https://s3.zoommer.ge/site/09282735-add9-4c57-898c-7bfbd5c4885c_Thumb.jpeg", 
+    "title": "Apple iPhone 15",
+    "category": "smartphone",
+    "price": 2600,
+    "date" : 2023,
+    "link" :"",
+    "class": "smartphone"
+  },
+  {
+    "id": 11,
+    "image": "https://isurve.ge/cdn/shop/products/1-min_bce796a8-4ee3-4dd8-8a4f-f49e5afcc8ea_1024x1024@2x.jpg?v=1686115593", 
+    "title": "Marshall Major IV",
+    "category": "headphone",
+    "price": 350,
+    "date" : 2020,
+    "link" :"",
+    "class": "headphone"
+  },
+  {
+    "id": 12,
+    "image": "https://assets.ee.ge/elit-product-images/IMG-000052608-1.jpg", 
+    "title": "SONY WH-CH720N/WCE",
+    "category": "headphone",
+    "price": 290,
+    "date" : 2020,
+    "link" :"",
+    "class": "headphone"
+  },
+  {
+    "id": 13,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/257/image_fsp3-3y.png.jpg", 
+    "title": "Samsung Galaxy Buds 2 PRO",
+    "category": "headphone",
+    "price": 400,
+    "date" : 2023,
+    "link" :"",
+    "class": "headphone"
+  },
+  {
+    "id": 14,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/240/124274_1.jpg.jpg", 
+    "title": "Apple AirPods 3 ",
+    "category": "headphone",
+    "price": 650,
+    "date" : 2023,
+    "link" :"",
+    "class": "headphone"
+  },
+  {
+    "id": 15,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/225/116152_1.jpg.jpg", 
+    "title": "Apple AirPods Max",
+    "category": "headphone",
+    "price": 1940,
+    "date" : 2023,
+    "link" :"",
+    "class": "headphone"
+  },
+  {
+    "id": 16,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/248/129031_4.jpg.jpg", 
+    "title": "Asus ROG Flow Z13",
+    "category": "laptop",
+    "price": 5700,
+    "date" : 2022,
+    "link" :"",
+    "class": "computer"
+  },
+  {
+    "id": 17,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/248/129031_4.jpg.jpg", 
+    "title": "Asus TUF Gaming A15",
+    "category": "laptop",
+    "price": 3500,
+    "date" : 2021,
+    "link" :"",
+    "class": "computer"
+  },
+  {
+    "id": 18,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/287/1_zwqh-tl.png.jpg", 
+    "title": "Asus TUF Gaming A16",
+    "category": "headphone",
+    "price": 3100,
+    "date" : 2022,
+    "link" :"",
+    "class": "computer"
+  },
+  {
+    "id": 19,
+    "image": "https://alta.ge/images/thumbnails/900/650/detailed/279/1_uzdb-et.png.jpg", 
+    "title": "Asus ROG Strix G16 ",
+    "category": "headphone",
+    "price": 3600,
+    "date" : 2022,
+    "link" :"",
+    "class": "computer"
+  },
+  {
+    "id": 20,
+    "image": "https://alta.ge/images/detailed/279/1_hspf-f4.png", 
+    "title": "Asus ROG Zephyrus Duo 16",
+    "category": "headphone",
+    "price":14000,
+    "date" : 2022,
+    "link" :"",
+    "class": "computer"
+  }
+]
